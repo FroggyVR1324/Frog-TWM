@@ -11,6 +11,8 @@ ___________                  _____________      __  _____
      \/                /_____/                \/         \/  
 </pre>
 
+The AI, to beat AI
+
 **Why pay for ChatGPT Pro when you have Frog TWM**
 Made by `Milosz`, inspired by `Slitzy's` WormGPT.
 An unrestricted AI model designed for coding and general tasks without built-in ethical constraints. This program aims to be very beginner friendly as possible with an easy setup.
