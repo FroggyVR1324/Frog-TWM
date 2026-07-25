@@ -7,13 +7,13 @@ ___________                  _____________      __  _____
 \_   _____/______  ____   ___\__    ___/  \    /  \/     \  
  |    __) \_  __ \/  _ \ / ___\|    |  \   \/\/   /  \ /  \ 
  |     \   |  | \(  <_> ) /_/  >    |   \        /    Y    \
- \___  /   |__|   \____/\___  /|____|    \__/\  /\____|__  /
+ \___  /   |__|   \____/\___  /|____|    \__/\  /\____|__  / 
      \/                /_____/                \/         \/  
 </pre>
 
 **ChatGPT's** *smallest* **ally?** (Or just another unrestricted AI?)
 Made by `Milosz`, inspired by `Slitzy's` WormGPT.
-An unrestricted AI model designed for coding and general tasks without built-in ethical constraints. This program aims to be very beginner friendly and requires minimal skill to run or install.
+An unrestricted AI model designed for coding and general tasks without built-in ethical constraints. This program aims to be very beginner friendly as possible with an easy setup.
 
 </div>
 
@@ -82,19 +82,18 @@ Feel free to fork, suggest improvements, or report issues. Remember the nature o
 
 ## License
 
-[Maybe add a license here, or state "Unlicensed" or similar. Consider the implications.]
+This project uses the MIT License
 
 ---
 
 ## Acknowledgements
 
 *   Inspired by `Slitzy's` [WormGPT](https://github.com/SlitzyCodesTooMuch/WormGPT).
-*   Powered by Ollama and the underlying AI model specified in the Modelfile.
-
+*   Powered by Ollama and Godmoded llama3-lexi-uncensored
 ---
 
 <div align="center">
 
-**Remember: Ribbit responsibly! 🐸**
+**Remember: Use this AI model RESPONSIBLY! 🐸**
 
 </div>
