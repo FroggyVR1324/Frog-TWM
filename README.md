@@ -60,7 +60,7 @@ That's it! Enjoy (responsibly)!
 
 1.  **Prerequisites:**
     *   Ollama installed and running on your machine.
-    *   Download the `frog_twm.exe` file from the [Releases](link-to-your-releases-page-if-you-have-one) section (or wherever you distribute it).
+    *   Download the `frog_twm.exe` file from the [Releases](link-to-your-releases-page-if-you-have-one) section.
 
 2.  **Run the Executable:**
     *   Double-click the `frog_twm.exe` file or run it from the command line: `frog_twm.exe`
