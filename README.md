@@ -17,12 +17,11 @@ The AI, to beat AI
 
 **Why pay for ChatGPT Pro when you have Frog TWM**
 Made by `Milosz`, inspired by `Slitzy's` WormGPT.
-An unrestricted AI model designed for coding and general tasks without built-in ethical constraints. This program aims to be very beginner friendly as possible with an easy setup.
+An unrestricted AI model designed for coding and general tasks. This program aims to be very beginner friendly as possible with an easy setup.
 This is the first installment in my **Github Experiments Series** where i do a course of random things based off of other people or ideas that came to me in the middle of nowhere.
 </div>
 
-FrogTWM is an AI model built for coding with no limitations in mind. This is HEAVILY inspired by SlitzyCodesTooMuch's WormGPT. FrogTWM does NOT contain a GUI because i 
-cant be bothered to make one. 
+This is HEAVILY inspired by SlitzyCodesTooMuch's WormGPT. 
 
 ---
 
