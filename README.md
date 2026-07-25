@@ -11,9 +11,6 @@ ___________                  _____________      __  _____
      \/                /_____/                \/         \/  
 </pre>
 
-[![Downloads](https://img.shields.io/badge/Downloads-0-green)](https://github.com/FroggyVR1324/FrogTWM/releases)
-[![Version](https://img.shields.io/badge/Version-v0.1-red)](https://github.com/FroggyVR1324/FrogTWM/releases)
-
 **Why pay for ChatGPT Pro when you have Frog TWM**
 Made by `Milosz`, inspired by `Slitzy's` WormGPT.
 An unrestricted AI model designed for coding and general tasks without built-in ethical constraints. This program aims to be very beginner friendly as possible with an easy setup.
