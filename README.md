@@ -81,7 +81,7 @@ This project uses the MIT License
 
 ## Acknowledgements
 
-*   Inspired by `@SliztyCodesTooMuch` [WormGPT](https://github.com/SlitzyCodesTooMuch/WormGPT).
+*   Inspired by @SliztyCodesTooMuch [WormGPT](https://github.com/SlitzyCodesTooMuch/WormGPT).
 *   Powered by Ollama and Godmoded llama3-lexi-uncensored
 
 ---
